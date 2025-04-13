@@ -1,0 +1,1 @@
+This project creates a complete pipeline for processing and analyzing news using ETL (Extract, Transform, Load) and Large Scale Language Models (LLM) techniques. The goal is to automate news summarization and facilitate sentiment and key information analysis using models based in LLMs.
